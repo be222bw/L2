@@ -1,0 +1,19 @@
+{
+  "name": "l2",
+  "version": "1.0.0",
+  "description": "An app using the module window-element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/be222bw/L2.git"
+  },
+  "author": "Björn Elmqvist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/be222bw/L2/issues"
+  },
+  "homepage": "https://github.com/be222bw/L2#readme"
+}
